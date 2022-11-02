@@ -19,4 +19,13 @@ We have succesfully built the Bionic Arm with 14 DOF.
 
 ![git1](https://user-images.githubusercontent.com/113464553/199393134-b65c852c-caeb-420b-b64d-5e9afdaa685d.png)
 
+## Features
+
+- Input:  EMG signal controlled bionic arm.
+- 14 DoF bionic arm.
+- Max weight is 656 gm for this we have used 3D printing technology.
+- Fullscreen mode
+- Machine learning model for classification of grasps.
+- Total Power dissipated: 8W
+- No of Hours the 2200mAh battery will last=(12*2200mAh)/8 W=3.3 hours.
 
