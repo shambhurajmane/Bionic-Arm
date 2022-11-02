@@ -1,0 +1,8 @@
+20-9-19
+initial wrist mechanism
+pp1
+pp2
+pp3
+pp4
+pp5
+pp_main

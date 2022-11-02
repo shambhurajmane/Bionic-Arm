@@ -1,0 +1,2 @@
+1) Controlling DC Motors with the L298N Dual H-Bridge and an Arduino
+https://dronebotworkshop.com/dc-motors-l298n-h-bridge/

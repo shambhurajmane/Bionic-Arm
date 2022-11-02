@@ -1,0 +1,10 @@
+Accuracy of Logistic regression classifier on training set: 0.78
+Accuracy of Logistic regression classifier on test set: 0.76
+Accuracy of Decision Tree classifier on training set: 1.00
+Accuracy of Decision Tree classifier on test set: 0.90
+Accuracy of K-NN classifier on training set: 0.95
+Accuracy of K-NN classifier on test set: 0.93
+Accuracy of LDA classifier on training set: 0.78
+Accuracy of LDA classifier on test set: 0.76
+Accuracy of GNB classifier on training set: 0.64
+Accuracy of GNB classifier on test set: 0.65
